@@ -1,0 +1,53 @@
+// @media (min-width: 769px) {
+
+// }
+.containerbg {
+  background-color: #111315;
+  height: auto;
+  padding-top: 12%;
+  padding-inline: 8%;
+  background-image: url("../../assets/images/bg-cafe.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.content {
+  background-color: #1b1d1f;
+  border-radius: 10px;
+}
+
+img {
+  width: auto;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+.iconbg {
+  background-image: url("../../assets/images/vector.svg");
+  background-repeat: no-repeat;
+  background-position: right 35% top 15%;
+}
+
+.imgItem {
+  border-radius: 20px;
+}
+
+.itemPrice {
+  background-color: #bee3cc;
+  border-radius: 4px;
+  padding-inline: 6px;
+}
+
+.itemPopular {
+  background-color: #f6c768;
+  border-radius: 8px;
+  padding-inline: 6px;
+  margin-top: 3%;
+  margin-left: 3%;
+}
+
+.rating {
+  justify-items: center;
+  align-items: center !important;
+  align-content: center !important;
+}

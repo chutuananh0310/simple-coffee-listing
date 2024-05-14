@@ -1,0 +1,62 @@
+{
+  "name": "demo-reactjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "antd": "^5.17.0",
+    "jquery": "^3.7.1",
+    "js-base64": "^3.7.7",
+    "jwt-decode": "^4.0.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1",
+    "node-sass": "^9.0.0",
+    "numeral": "^2.0.6",
+    "popper.js": "^1.16.1",
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-api-fetching": "^0.5.4",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.1",
+    "react-scripts": "5.0.1",
+    "react-tooltip": "^5.26.4",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@typescript-eslint/eslint-plugin": "2.x",
+    "@typescript-eslint/parser": "2.x",
+    "babel-eslint": "10.x",
+    "bootstrap": "^5.3.3",
+    "bootstrap-loader": "^4.0.4",
+    "eslint": "6.x",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-flowtype": "4.x",
+    "eslint-plugin-import": "2.x",
+    "eslint-plugin-jsx-a11y": "6.x",
+    "eslint-plugin-react": "7.x",
+    "eslint-plugin-react-hooks": "2.x",
+    "typescript": "^5.0.4"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
